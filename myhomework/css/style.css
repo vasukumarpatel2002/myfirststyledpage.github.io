@@ -1,0 +1,15 @@
+body{font-family: 'Times New Roman', Times, serif;
+font-size: 100%;}
+header{background-color: #cddc39;}
+nav{background-color: rgb(255, 0, 132);
+;  }
+main{background-color: rgb(0, 255, 0);
+font-size: 100%;}
+footer{ background-color: blueviolet;}
+li{ display: inline;
+}
+h1{ text-align: center;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: black;}
+a{ color: black;}
+p{ line-height: normal;}
